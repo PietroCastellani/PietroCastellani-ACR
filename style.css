@@ -15,7 +15,7 @@ Version: 1.0
 .avv {
 	float: right;
 	font-size: 15px;
-	margin-right: 150px;
+	padding-right: 300px;
 }
 
 .mu-title-info {
@@ -117,7 +117,7 @@ Version: 1.0
 }
 
 .calendario {
-	margin-left: 150px;
+	padding-left: 300px;
 }
 
 body,
