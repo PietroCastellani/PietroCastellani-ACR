@@ -9,6 +9,7 @@ Version: 1.0
 
 .wireframe {
 	text-align: center;
+	margin-bottom: 30px;
 }
 
 .avv {
@@ -43,6 +44,8 @@ Version: 1.0
 
 .documentazione {
 	text-align: center;
+	margin: 190px 100px;
+
 }
 
 .documentazione p{
@@ -247,29 +250,12 @@ iframe {
 }
 
 
-.mu-send-msg-btn {
-	color: #555;
-	font-size: 14px;
-	font-weight: 400;
-	letter-spacing: 1px;
-	text-align: center;
-	padding: 12px 20px;
-	margin-top: 10px;
-	-webkit-transition: all 0.5s;
-	transition: all 0.5s;
-	width: 170px;
-	color: #fff;
-	border-radius: 20px;
-	cursor: pointer;
-	text-transform: uppercase;
-}
 
 .mu-send-msg-btn:hover,
 .mu-send-msg-btn:focus {
 	background-color: #fff;
 }
 
-/*scrol to top*/
 
 .mu-single-slide:before {
 	background-color:#8481b0;
@@ -467,7 +453,7 @@ a:focus,
 	right: 0;
 	top: 0;
 	bottom: 0;
-	opacity: 0.8;
+	opacity: 0.6;
 	z-index: 10;
 }
 
@@ -547,7 +533,7 @@ a:focus,
 /* TESTIMONIALS */
 
 #mu-testimonials {
-	background-image: url("assets/images/emer.jpg");
+	background-image: url("assets/images/edu.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -567,7 +553,7 @@ a:focus,
 	top: 0;
 	right: 0;
 	position: absolute;
-	opacity: 0.8;
+	opacity: 0.6;
 	z-index: 10;
 }
 
@@ -893,7 +879,7 @@ a:focus,
 
 
 #mu-page-header {
-	background-image: url(assets/images/modulistica.jpg);
+	background-image: url(assets/images/mod2.jpg);
 	background-position: center center;
 	background-size: cover;
 	display: inline;
