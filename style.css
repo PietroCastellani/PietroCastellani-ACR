@@ -6,6 +6,9 @@ Author URI: http://www.markups.io/
 Version: 1.0
 =======*/
 
+#doc{
+	color: blue;
+}
 
 .wireframe {
 	text-align: center;
